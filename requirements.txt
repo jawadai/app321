@@ -1,0 +1,13 @@
+streamlit
+torch
+torchaudio
+numpy
+scipy
+plotly
+pathlib
+typing-extensions
+python-dateutil
+soundfile 
+sox
+onnxruntime
+tqdm
